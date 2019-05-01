@@ -1,8 +1,8 @@
 
 github "LoopKit/LoopKit" ~> 2.2
-github "LoopKit/CGMBLEKit" == 3.0
+github "Kylemassey07/CGMBLEKit" "master"
 github "ps2/SwiftCharts" "hotfix-xcode10.2"
-github "LoopKit/dexcom-share-client-swift" == 1.0
-github "LoopKit/G4ShareSpy" == 1.0
+github "Kylemassey07/dexcom-share-client-swift" "master"
+github "Kylemassey07/G4ShareSpy" "master"
 github "ps2/rileylink_ios" ~> 2.1
 github "LoopKit/Amplitude-iOS" "decreepify"
